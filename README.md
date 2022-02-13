@@ -1,13 +1,12 @@
 # BallonDorAnalysis
-* Main Purpose
 * What are the characteristics of the Ballon D'or winner and can it be predicted who will win?
 
 ## Data Acquisition
-* scarping with Pandas
-* crawling with Beautiful Soup and Selenium
+* scarping with Pandas.
+* crawling with Beautiful Soup and Selenium.
 
 ## Data Cleaning
-* removed outliers , missing values and signs .
+* removed outliers , missing values and signs.
 * changed the values to numeric.
 
 ## Visualisation
