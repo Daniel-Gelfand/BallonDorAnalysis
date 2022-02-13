@@ -16,3 +16,16 @@
 ## Machine Learning
 1. built a linear regression model that predict Ballon Dor vote precentege.
 2. built a logistic regression model that predict the winner of Ballon Dor by totsl goals.
+
+## Authors
+
+- [@Daniel-Gelfand](https://github.com/Daniel-Gelfand)
+- [@matanbare](https://github.com/matanbare)
+
+## Clone 
+
+```bash
+  git clone https://github.com/Daniel-Gelfand/BallonDorAnalysis.git
+```
+
+## 2021
